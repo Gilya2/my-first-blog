@@ -6,7 +6,7 @@ h1 a {
 body {
     padding-left: 15px;
     background: url(https://scontent.fiev11-1.fna.fbcdn.net/v/t31.0-8/12022447_10209412930502575_6886808533706331841_o.jpg?_nc_cat=0&oh=5902982d3fca40b315ee0c152b34b0fe&oe=5C2C39AD);
-    background-size: auto 100%;
+    background-size: contain;
 }
 background-color: #ff9400;
     margin-top: 0;
